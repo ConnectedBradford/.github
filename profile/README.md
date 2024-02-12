@@ -22,3 +22,7 @@ and secondary health records etc, throughout the sustem.
 
 If you have any questions please email the Connected Bradford Team at cbradford@bthft.nhs.uk
 
+<a href="https://github.com/ConnectedBradford/">
+  <img  alt="ConnectedBradford" width="355px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" />
+</a>
+
