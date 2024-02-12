@@ -13,16 +13,15 @@ The data accessible to Analysts is in a Flexible Data Model, or FDM. These are g
 Reports/Papers and any other output are in CB_nnnn - desc 
 These are names based on what the project was and our own internal references.
 
-The Connected Bradford adatset contains over 7 million patients with varyong degrees of clinical data from the 
-very rich Primary Care dataset with detailed data on 1.4 million patients (The full GP patient history) .
-To detail poor data such as the YAS data.
+The Connected Bradford adatset contains over 7 million patients with varying degrees of clinical data from the 
+detailed health data on 1.4 million  Primary Care patients (The full GP patient history), To less detailed data such as YAS data.
+
+<a href="https://github.com/ConnectedBradford/">
+  <img  alt="ConnectedBradford" width="355px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" />
+</a>
 
 The data from all the various datasets is linked via a common person_id, so it is possible to link Primary 
 and secondary health records etc, throughout the sustem.
 
 If you have any questions please email the Connected Bradford Team at cbradford@bthft.nhs.uk
-
-<a href="https://github.com/ConnectedBradford/">
-  <img  alt="ConnectedBradford" width="355px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" />
-</a>
 
