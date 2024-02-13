@@ -16,12 +16,10 @@ These are names based on what the project was and our own internal references.
 The Connected Bradford adatset contains over 7 million patients with varying degrees of clinical data from the 
 detailed health data on 1.4 million  Primary Care patients (The full GP patient history), To less detailed data such as YAS data.
 
-|        The overal picture                                                                                                                                              |Link to details|
+|        The overal picture                                                                                                                                              |             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | <a href="https://github.com/ConnectedBradford/">
-  <img  alt="ConnectedBradford" width="355px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" /> </a>  | [Primary Care](https://github.com/ConnectedBradford/CB_FDM_PrimaryCare)  |
-| Content Cell2                                                                                                                                       |my tes      t  |
-
+  <img  alt="ConnectedBradford" width="355px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" /> </a>  | [Primary Care](https://github.com/ConnectedBradford/CB_FDM_PrimaryCare) <br /> [Secondary Care](https://github.com/ConnectedBradford/CB_FDM_Warehouse_ALL) |
 
 
 The data from all the various datasets is linked via a common person_id, so it is possible to link Primary 
