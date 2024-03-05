@@ -22,7 +22,7 @@ The Connected Bradford dataset contains over 7 million patients with linked heal
 
 Data from all the various datasets is linked via a common person_id, so it is possible to link primary and secondary health records etc, throughout the system.
 
-For a full list of current projects please see https://github.com/ConnectedBradford/CB_ResearchInformation/blob/main/README.md
+For a full list of current projects please see [Current Projects](https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main)
 
 If you have any questions please email the Connected Bradford team at cbradford@bthft.nhs.uk
 
