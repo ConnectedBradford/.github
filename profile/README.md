@@ -20,12 +20,12 @@ The Connected Bradford dataset contains over 7 million patients with linked heal
   <img  alt="ConnectedBradford" width="355px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" /> </a>  | Data from all the various datasets is linked via a common person_id, so it is possible to link primary and secondary health records etc, throughout the system.   | 
 
 <p>&nbsp;</p>
-<figure class="table" style="height:10px;width:95%;">
+<figure class="table" style="height:10px;width:80%;">
     <table class="ck-table-resized">
         <colgroup>
-            <col style="width:14.61%;">
-            <col style="width:26.34%;">
-            <col style="width:59.05%;">
+            <col style="width:25.00%;">
+            <col style="width:25.00%;">
+            <col style="width:50.00%;">
         </colgroup>
         <thead>
             <tr>
