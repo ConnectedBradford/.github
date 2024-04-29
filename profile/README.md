@@ -4,12 +4,12 @@
 
 # Connected Bradford Summary
 
-This is the Connected Bradford GitHub page where you can find a summary of the data available. Teh diagram below shows the range of data we have, this Wheel of Data links to teh various sources that make this up. 
+This is the Connected Bradford GitHub page where you can find a summary of the data available. The diagram below shows the range of data we have, this Wheel of Data links to The various sources that make this up. 
 When an Analyst wants to request data the Exporession OF Interest has several " areas" these correspond to the data and the table blow the wheel shows this relationship.
 
 These pages contain a list of all the data currently available, each repository contains a summary of the data and the demographics for that data set. The data accessible to Analysts is in a Flexible Data Model (FDM). The FDM specifications and methodology can be found here: https://github.com/ConnectedBradford//CB_FDM_Specifications. Each folder contains the code used to develop that fdm, and any documenation associated with it, such as the data dictionaries. The basic Data Dictionary conations details of the table, fields and field type, and sample data value. Where there is a supplier provided data dictionar this is also included. 
 
-When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and oiutput from that work are then published. Teh folder format is : "CB_nnnn - descritpion". These descriptions are names based on the project topic and the reference number. A full list fo current projects can be gfound here: https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main
+When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and oiutput from that work are then published. The folder format is : "CB_nnnn - descritpion". These descriptions are names based on the project topic and the reference number. A full list fo current projects can be gfound here: https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main
 
 The Connected Bradford dataset contains over 7 million patients with linked health and other associated data from different sources, including detailed health data on 1.4 million primary care patients (the full GP patient history), and various important satellite datasets such as Yorkshire Ambulance Service data.
 
