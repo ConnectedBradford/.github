@@ -40,7 +40,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
             <tr>
                 <td><span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Primary Care</span></td>
                 <td><span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Primary Care&nbsp;</span></td>
-                <td class="xl65" style="font-style:normal;font-weight:400;height:14.5pt;padding-left:1px;padding-right:1px;padding-top:1px;text-wrap:nowrap;vertical-align:bottom;white-space-collapse:collapse;width:246pt;" height="19" width="327"><a target="_blank" rel="noopener noreferrer" href="https://github.com/ConnectedBradford/Connected-Bradford-PrimaryCare"><span style="color:rgb(5,99,193);font-family:Tahoma, Geneva, sans-serif;font-size:12px;"><u>Connected-Bradford-PrimaryCare</u></span></a></td>
+                <td class="xl65" style="font-style:normal;font-weight:400;height:14.5pt;padding-left:1px;padding-right:1px;padding-top:1px;text-wrap:nowrap;vertical-align:bottom;white-space-collapse:collapse;width:246pt;" height="19" width="355"><a target="_blank" rel="noopener noreferrer" href="https://github.com/ConnectedBradford/Connected-Bradford-PrimaryCare"><span style="color:rgb(5,99,193);font-family:Tahoma, Geneva, sans-serif;font-size:12px;"><u>Connected-Bradford-PrimaryCare</u></span></a></td>
             </tr>
             <tr>
                 <td>&nbsp;</td>
