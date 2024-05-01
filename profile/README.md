@@ -20,7 +20,6 @@ The Connected Bradford dataset contains over 7 million patients with linked heal
 
 
 Data from all the various datasets is linked via a common person_id, so it is possible to link primary and secondary health records etc, throughout the system.
-
 <p>&nbsp;</p>
 <figure class="table" style="height:10px;width:87.73%;">
     <table class="ck-table-resized">
@@ -100,7 +99,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
             <tr>
                 <td>&nbsp;</td>
                 <td>&nbsp;</td>
-                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/Ages_And_Stages_Questionnaires"><span style="color:rgb(5,99,193);font-family:Tahoma, Geneva, sans-serif;font-size:12px;"><u>ConnectedBradford-Ages and Stages</u></span></a></td>
+                <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/ConnectedBradford/Ages_And_Stages_Questionnaires"><span style="color:rgb(5,99,193);font-family:Tahoma, Geneva, sans-serif;font-size:12px;"><u>Connected Bradford-Ages and Stages</u></span></a></td>
             </tr>
             <tr>
                 <td><span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Education data&nbsp;</span></td>
