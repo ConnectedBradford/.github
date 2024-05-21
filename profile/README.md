@@ -16,8 +16,9 @@ The Connected Bradford dataset contains over 7 million patients with linked heal
 |        The overal picture                                                                                                                                              |  Key Datasets   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | <a href="https://github.com/ConnectedBradford/">
-  <img  alt="ConnectedBradford" width="355px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" /> </a>  | Please select the link below to see the details for each dataset   | 
+  <img  alt="ConnectedBradford" width="385px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" /> </a>  |  <img align="leftt" alt="ConnectedBradford" width="500px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/docs/wheel.png?raw=true" /> |
 
+ Please select the link below to see the details for each dataset 
 
 Data from all the various datasets is linked via a common person_id, so it is possible to link primary and secondary health records etc, throughout the system.
 <p>&nbsp;</p>
@@ -192,6 +193,10 @@ Data from all the various datasets is linked via a common person_id, so it is po
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+
+
+
 
 For a full list of current projects please see [Current Projects](https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main)
 
