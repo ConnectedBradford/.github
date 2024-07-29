@@ -11,6 +11,8 @@ These pages contain a list of all the data currently available, each repository 
 
 When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and output from that work are then published. The folder format is : "CB_nnnn - description". These descriptions are names based on the project topic and the reference number. A full list of current projects can be found here: https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main
 
+A analyst from the Connected Bradford team works with the researcher to extract the relevant data from the various data sources and bring it together to build a specific research dataset. This topic specific FDM is then accessed via our Google platform, usimg bigquery adn Jupyter Notebooks - running Python and R. Following the naming conventions above the fdm that is built will also be CB_nnnn. 
+
 The Connected Bradford dataset contains over 7 million patients with linked health and other associated data from different sources, including detailed health data on 1.4 million primary care patients (the full GP patient history), and various important satellite datasets such as Yorkshire Ambulance Service data.
 
 |        The overal picture                                                                                                                                              |  Key Datasets   |
