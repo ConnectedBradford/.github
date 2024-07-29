@@ -11,7 +11,9 @@ These pages contain a list of all the data currently available, each repository 
 
 When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and output from that work are then published. The folder format is : "CB_nnnn - description". These descriptions are names based on the project topic and the reference number. A full list of current projects can be found here: https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main
 
-A analyst from the Connected Bradford team works with the researcher to extract the relevant data from the various data sources and bring it together to build a specific research dataset. This topic specific FDM is then accessed via our Google platform, usimg bigquery adn Jupyter Notebooks - running Python and R. Following the naming conventions above the fdm that is built will also be CB_nnnn. 
+An analyst from the Connected Bradford team works with the researcher to extract the relevant data from the various data sources and bring it together to build a specific research dataset. This topic specific FDM is then accessed via our Google platform, usimg bigquery and Jupyter Notebooks - running Python and R. Following the naming conventions above the fdm that is built will also be CB_nnnn. 
+
+The Connected Bradford analysts role will be to: build the dataset with the researcher input, or to build and actually do the analysis. The patter depending on resources and budgets.
 
 The Connected Bradford dataset contains over 7 million patients with linked health and other associated data from different sources, including detailed health data on 1.4 million primary care patients (the full GP patient history), and various important satellite datasets such as Yorkshire Ambulance Service data.
 
@@ -202,6 +204,6 @@ Data from all the various datasets is linked via a common person_id, so it is po
 
 For a full list of current projects please see [Current Projects](https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main)
 
-If you have any questions please email the Connected Bradford team at cbradford@bthft.nhs.uk
+If you have any questions about any of this, please email the Connected Bradford team at cbradford@bthft.nhs.uk
 
 
