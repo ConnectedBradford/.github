@@ -5,9 +5,9 @@
 # Connected Bradford Summary
 
 This is the Connected Bradford GitHub page where you can find a summary of the data available. The diagram below shows the range of data we have, this Wheel of Data links to the various sources that make this up. 
-When an Analyst wants to request data the Expression oF Interest has several "areas" these correspond to the data and the table below the wheel shows this relationship.
+When an Analyst wants to request data the Expression of Interest has several "areas" these correspond to the data and the table below the wheel shows this relationship.
 
-These pages contain a list of all the data currently available, each repository contains a summary of the data and the demographics for that data set. The data accessible to Analysts is in a Flexible Data Model (FDM). The FDM specifications and methodology can be found here: https://github.com/ConnectedBradford//CB_FDM_Specifications. Each folder contains the code used to develop that fdm, and any documentation associated with it, such as the data dictionaries. The basic Data Dictionary contaions details of the table, fields and field type, and sample data value. Where there is a supplier provided data dictionary this is also included. 
+These pages contain a list of all the data currently available, each repository contains a summary of the data and the demographics for that data set. The data accessible to Analysts is in a Flexible Data Model (FDM). The FDM specifications and methodology can be found here: https://github.com/ConnectedBradford//CB_FDM_Specifications. Each folder contains the code used to develop that fdm, and any documentation associated with it, such as the data dictionaries. The basic Data Dictionary contains details of the table, fields and field type, and sample data value. Where there is a supplier provided data dictionary this is also included. 
 
 When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and output from that work are then published. The folder format is : "CB_nnnn - description". These descriptions are names based on the project topic and the reference number. A full list of current projects can be found here: https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main
 
