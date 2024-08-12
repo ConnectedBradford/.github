@@ -9,11 +9,11 @@ When an Analyst wants to request data the Expression of Interest has several "ar
 
 These pages contain a list of all the data currently available, each repository contains a summary of the data and the demographics for that data set. The data accessible to Analysts is in a Flexible Data Model (FDM). The FDM specifications and methodology can be found here: https://github.com/ConnectedBradford//CB_FDM_Specifications. Each folder contains the code used to develop that fdm, and any documentation associated with it, such as the data dictionaries. The basic Data Dictionary contains details of the table, fields and field type, and sample data value. Where there is a supplier provided data dictionary this is also included. 
 
-When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and output from that work are then published. The folder format is : "CB_nnnn - description". These descriptions are names based on the project topic and the reference number. A full list of current projects can be found here: https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main
-
-An analyst from the Connected Bradford team works with the researcher to extract the relevant data from the various data sources and bring it together to build a specific research dataset. This topic specific FDM is then accessed via our Google platform, usimg bigquery and Jupyter Notebooks - running Python and R. Following the naming conventions above the fdm that is built will also be CB_nnnn. 
+When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and output from that work are then published. The folder format is : "CB_nnnn - description". These descriptions are names based on the project topic and the reference number. An analyst from the Connected Bradford team works with the researcher to extract the relevant data from the various data sources and bring it together to build a research specific dataset in the FDM format. This research specific FDM is then accessed via our Google platform, using bigquery and Jupyter Notebooks (running Python and R). 
 
 The Connected Bradford analysts role will be to: build the dataset with the researcher input, or to build and actually perform the analysis, the latter depending on resources and budgets.
+
+A full list of current projects can be found here: https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main
 
 The Connected Bradford dataset contains over 7 million patients with linked health and other associated data from different sources, including detailed health data on 1.4 million primary care patients (the full GP patient history), and various important satellite datasets such as Yorkshire Ambulance Service data.
 
