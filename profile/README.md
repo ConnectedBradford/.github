@@ -1,6 +1,9 @@
 
 
-<img align="left" alt="ConnectedBradford" width="75px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/CB%20logo%201.png?raw=true" />  <img align="right" alt="Yorkshire and Humber SDE " width="255px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/SNSDE%20Logo%20%2B%20part%20of%20network.png?raw=true" /> 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/CB%20logo%201.png" width="100" style="margin-right: auto;" />
+  <img src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/SNSDE%20Logo%20%2B%20part%20of%20network.png" width="300"  style="margin-left: auto;"/>
+</div>
 
 
 
@@ -22,7 +25,7 @@ The Connected Bradford dataset contains over 7 million patients with linked heal
 |        The overal picture                                                                                                                                              |  Key Datasets   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | <a href="https://github.com/ConnectedBradford/">
-  <img  alt="ConnectedBradford" width="385px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" /> </a>  |  <img align="leftt" alt="ConnectedBradford" width="500px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/docs/wheel.png?raw=true" /> |
+  <img  alt="ConnectedBradford" width="385px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" /> </a>  |  <img align="left" alt="ConnectedBradford" width="500px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/docs/wheel.png?raw=true" /> |
 
  Please select the link below to see the details for each dataset 
 
