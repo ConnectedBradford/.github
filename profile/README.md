@@ -1,7 +1,8 @@
-<a href="https://www.bradfordresearch.nhs.uk/our-research-teams/connected-bradford/">
-  <img align="left" alt="ConnectedBradford" width="55px" src="https://github.com/ShoreRob1/Images/blob/main/CB%20logo%201.png?raw=true" />
- <img align="right" alt="Yorkshire and Humber SDE " width="255px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/SNSDE%20Logo%20%2B%20part%20of%20network.png?raw=true" />
-</a>
+
+
+<img align="left" alt="ConnectedBradford" width="75px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/CB%20logo%201.png?raw=true" />  <img align="right" alt="Yorkshire and Humber SDE " width="255px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/SNSDE%20Logo%20%2B%20part%20of%20network.png?raw=true" /> 
+
+
 
 # Connected Bradford Summary
 
