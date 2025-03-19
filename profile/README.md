@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/CB%20logo%201.png" width="100" style="margin-right: auto;" />
     <img src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/Spacer.png" width="400" style="margin-right: auto;" />
-  <img src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/SNSDE%20Logo%20%2B%20part%20of%20network.png" width="300"  style="margin-left: auto;"/>
+<!--   <img src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/SNSDE%20Logo%20%2B%20part%20of%20network.png" width="300"  style="margin-left: auto;"/> -->
 </div>
 
 
