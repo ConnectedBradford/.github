@@ -281,7 +281,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     <span style="color:black;font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Housing</span>
                 </td>
                 <td>
-                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Coming Soon&nbsp;</span>
+                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">The description for this dataset is coming soon, the data is available on request.&nbsp;</span>
                 </td>
             </tr>
             <tr>
@@ -292,7 +292,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     <span style="color:black;font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Crime</span>
                 </td>
                 <td>
-                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Coming Soon&nbsp;</span>
+                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">The description for this dataset is coming soon, the data is available on request.&nbsp;</span>
                 </td>
             </tr>
             <tr>
@@ -325,7 +325,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     &nbsp;
                 </td>
                 <td>
-                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Coming Soon&nbsp;</span>
+                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">The description for this dataset is coming soon, the data is available on request.&nbsp;</span>
                 </td>
             </tr>
             <tr>
@@ -347,7 +347,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     <span style="color:black;font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Childrens centres</span>
                 </td>
                 <td>
-                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Coming Soon&nbsp;</span>
+                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">The description for this dataset is coming soon, the data is available on request.&nbsp;</span>
                 </td>
             </tr>
             <tr>
@@ -358,7 +358,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     <span style="color:black;font-family:Tahoma, Geneva, sans-serif;font-size:12px;">School Nurse</span>
                 </td>
                 <td>
-                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Coming Soon&nbsp;</span>
+                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">The description for this dataset is coming soon, the data is available on request.&nbsp;</span>
                 </td>
             </tr>
             <tr>
@@ -369,7 +369,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     <span style="color:black;font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Palliative Care</span>
                 </td>
                 <td>
-                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Coming Soon&nbsp;</span>
+                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">The description for this dataset is coming soon, the data is available on request.&nbsp;</span>
                 </td>
             </tr>
             <tr>
@@ -380,7 +380,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     <span style="color:black;font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Health Visitors</span>
                 </td>
                 <td>
-                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Coming Soon&nbsp;</span>
+                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">The description for this dataset is coming soon, the data is available on request.&nbsp;</span>
                 </td>
             </tr>
             <tr>
@@ -402,7 +402,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Community Care</span>
                 </td>
                 <td>
-                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">Coming Soon&nbsp;</span>
+                    <span style="font-family:Tahoma, Geneva, sans-serif;font-size:12px;">The description for this dataset is coming soon, the data is available on request.&nbsp;</span>
                 </td>
             </tr>
         </tbody>
