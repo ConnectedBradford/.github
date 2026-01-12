@@ -25,7 +25,7 @@ A full list of current projects can be found here: https://github.com/ConnectedB
 
 The Connected Bradford dataset contains over 7 million patients with linked health and other associated data from different sources, including detailed health data on 1.4 million primary care patients (the full GP patient history), and various important satellite datasets such as Yorkshire Ambulance Service data.
 
-|        The overal picture                                                                                                                                              |  Key Datasets   |
+|        The overall picture                                                                                                                                              |  Key Datasets   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | <a href="https://github.com/ConnectedBradford/">
   <img  alt="ConnectedBradford" width="385px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/CBrad.gif?raw=true" /> </a>  |  <img align="left" alt="ConnectedBradford" width="500px" src="https://github.com/ConnectedBradford/CB_FDM_Specifications/blob/main/docs/wheel.png?raw=true" /> |
