@@ -8,7 +8,7 @@
 
 
 
-# Connected Bradford Summary
+# Connected Bradford Summary - WARNING ! THIS information is out of date and subject to review. (20/04/2026) 
 
 This is the Connected Bradford GitHub page where you can find a summary of the data available. The diagram below shows the range of data we have, this Wheel of Data links to the various sources that make this up. 
 When an Analyst wants to request data the Expression of Interest has several "areas" these correspond to the data and the table below the wheel shows this relationship.
