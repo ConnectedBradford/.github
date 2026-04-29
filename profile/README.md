@@ -8,7 +8,9 @@
 
 
 
-# Connected Bradford Summary
+# Connected West Yorkshire Summary 
+(Formerly known as Connected Bradford) 
+
 > [!WARNING]  
 > THIS information is out of date and subject to review. (20/04/2026) 
 
