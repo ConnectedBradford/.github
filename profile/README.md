@@ -428,6 +428,6 @@ Data from all the various datasets is linked via a common person_id, so it is po
 
 For a full list of current projects please see [Current Projects](https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main)
 
-If you have any questions about any of this, please email the Connected Bradford team at cbradford@bthft.nhs.uk
+If you have any questions about any of this, please email the Connected West Yorkshire team (Formerly Connected Bradford) at cWestYorkshire@bthft.nhs.uk
 
 
