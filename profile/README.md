@@ -12,10 +12,15 @@
 (Formerly known as Connected West Yorkshire) 
 
 > [!WARNING]  
-> THIS information is out of date and subject to review. (20/04/2026) 
+> The linked information on each dataset is out of date and subject to review. (20/04/2026) 
 
 This is the Connected West Yorkshire GitHub page where you can find a summary of the data available. The diagram below shows the range of data we have, this Wheel of Data links to the various sources that make this up. 
 When an Analyst wants to request data the Expression of Interest has several "areas" these correspond to the data and the table below the wheel shows this relationship.
+
+The CWY databases comprise information from linked health and other associated data. This includes detailed health records for 1.4 million primary care patients, as well as several crucial satellite datasets, such as those from the Yorkshire Ambulance Service, Social Services, Education, and Mental Health. By combining these datasets, researchers can conduct meaningful investigations into health-related conditions and their underlying causes, with the goal of enhancing understanding and care for the citizens of Bradford and surrounding regions.  
+
+
+
 
 Connected West Yorkshire is a linked research dataset and is described here https://wellcomeopenresearch.org/articles/7-26  (DOI 10.12688/wellcomeopenres.17526.2) 
 
