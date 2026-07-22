@@ -9,25 +9,25 @@
 
 
 # Connected West Yorkshire Summary 
-(Formerly known as Connected Bradford) 
+(Formerly known as Connected West Yorkshire) 
 
 > [!WARNING]  
 > THIS information is out of date and subject to review. (20/04/2026) 
 
-This is the Connected Bradford GitHub page where you can find a summary of the data available. The diagram below shows the range of data we have, this Wheel of Data links to the various sources that make this up. 
+This is the Connected West Yorkshire GitHub page where you can find a summary of the data available. The diagram below shows the range of data we have, this Wheel of Data links to the various sources that make this up. 
 When an Analyst wants to request data the Expression of Interest has several "areas" these correspond to the data and the table below the wheel shows this relationship.
 
-Connected Bradford is a linked research dataset and is described here https://wellcomeopenresearch.org/articles/7-26  (DOI 10.12688/wellcomeopenres.17526.2) 
+Connected West Yorkshire is a linked research dataset and is described here https://wellcomeopenresearch.org/articles/7-26  (DOI 10.12688/wellcomeopenres.17526.2) 
 
 These pages contain a list of all the data currently available, each repository contains a summary of the data and the demographics for that data set. The data accessible to Analysts is in a Flexible Data Model (FDM). The FDM specifications and methodology can be found here: https://github.com/ConnectedBradford//CB_FDM_Specifications. Each folder contains the code used to develop that fdm, and any documentation associated with it, such as the data dictionaries. The basic Data Dictionary contains details of the table, fields and field type, and sample data value. Where there is a supplier provided data dictionary this is also included. 
 
-When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and output from that work are then published. The folder format is : "CB_nnnn - description". These descriptions are names based on the project topic and the reference number. An analyst from the Connected Bradford team works with the researcher to extract the relevant data from the various data sources and bring it together to build a research specific dataset in the FDM format. This research specific FDM is then accessed via our Google platform, using bigquery and Jupyter Notebooks (running Python and R). 
+When an Analyst/Researcher carries out a project they are given a reference number. That number is used to create a Github folder into which the code and output from that work are then published. The folder format is : "CB_nnnn - description". These descriptions are names based on the project topic and the reference number. An analyst from the Connected West Yorkshire team works with the researcher to extract the relevant data from the various data sources and bring it together to build a research specific dataset in the FDM format. This research specific FDM is then accessed via our Secure on premise platform, using standard tooling such as R, Python within Vscode orAnaconda (Jupyter Notebooks (running Python and R)). 
 
-The Connected Bradford analysts role will be to: build the dataset with the researcher input, or to build and actually perform the analysis, the latter depending on resources and budgets.
+The Connected West Yorkshire analysts role will be to: build the dataset with the researcher input, or to build and actually perform the analysis, the latter depending on resources and budgets.
 
 A full list of current projects can be found here: https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main
 
-The Connected Bradford dataset contains over 7 million patients with linked health and other associated data from different sources, including detailed health data on 1.4 million primary care patients (the full GP patient history), and various important satellite datasets such as Yorkshire Ambulance Service data.
+The Connected West Yorkshire dataset contains over 7 million patients with linked health and other associated data from different sources, including detailed health data on 1.4 million primary care patients (the full GP patient history), and various important satellite datasets such as Yorkshire Ambulance Service data.
 
 |        The overall picture                                                                                                                                              |  Key Datasets   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
@@ -219,7 +219,7 @@ Data from all the various datasets is linked via a common person_id, so it is po
                     &nbsp;
                 </td>
                 <td>
-                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/ConnectedBradford/Ages_And_Stages_Questionnaires"><span style="color:rgb(5,99,193);font-family:Tahoma, Geneva, sans-serif;font-size:12px;"><u>Connected Bradford-Ages and Stages</u></span></a>
+                    <a target="_blank" rel="noopener noreferrer" href="https://github.com/ConnectedBradford/Ages_And_Stages_Questionnaires"><span style="color:rgb(5,99,193);font-family:Tahoma, Geneva, sans-serif;font-size:12px;"><u>Connected West Yorkshire-Ages and Stages</u></span></a>
                 </td>
             </tr>
             <tr>
@@ -428,6 +428,6 @@ Data from all the various datasets is linked via a common person_id, so it is po
 
 For a full list of current projects please see [Current Projects](https://github.com/ConnectedBradford/CB_ResearchInformation/tree/main)
 
-If you have any questions about any of this, please email the Connected West Yorkshire team (Formerly Connected Bradford) at cWestYorkshire@bthft.nhs.uk
+If you have any questions about any of this, please email the Connected West Yorkshire team (Formerly Connected West Yorkshire) at cWestYorkshire@bthft.nhs.uk
 
 
