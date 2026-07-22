@@ -37,7 +37,7 @@ The Connected West Yorkshire dataset contains over 7 million patients with linke
 |        The overall picture                                                                                                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <a href="https://github.com/ConnectedBradford/">
-  <img  alt="Connected West Yorkshire" width="385px" class="center" src="[https://github.com/ConnectedBradford/.github/blob/main/profile/CWY_Areas.png]?raw=true" /> </a>  
+  <img  alt="Connected West Yorkshire" width="785px" class="center" src="https://github.com/ConnectedBradford/.github/blob/main/profile/CWY_Areas.gif?raw=true" /> </a>  
 
  Please select the link below to see the details for each dataset 
 
